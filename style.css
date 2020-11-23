@@ -1,0 +1,9 @@
+h1{color:blue}
+.header{background-color:red;
+justify-content: center;
+align-items: center;}
+.footer{background-color:lightblue;
+display:flex;
+flex-wrap: wrap;
+justify-content: space-evenly;}
+.one p:hover{opacity:0.5;transform:scale(1.5)}
